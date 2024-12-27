@@ -1,3 +1,11 @@
+>NOTE
+
+Podemos encontrar tres tipos: 
+
+  -  De proyecto: está conectado a un proyecto específico alojado en GitHub (una biblioteca de JavaScript o una colección de recetas. 
+  -  De usuario: se debe crear un repositorio propiedad de una cuenta personal y los archivos fuente del site de un proyecto se almacenan en el mismo repositorio. 
+  -  De organización: se debe crear un repositorio propiedad de una organización denominado <organization>.github.io . 
+
 <header>
 
 <!--
