@@ -1,3 +1,7 @@
-theme: minima
-author: Alexx LJ
-description: My first web
+title: "This is a Tactile Themes YAML from `prettydoc` Package"
+author: "Type your name here"
+date: "`r Sys.Date()`"
+output: 
+  prettydoc::html_pretty:
+    theme: tactile
+    toc: yes
