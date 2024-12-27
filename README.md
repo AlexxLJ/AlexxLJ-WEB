@@ -1,6 +1,6 @@
->NOTE
-
-Podemos encontrar tres tipos: 
+>NOTE <!--comment: https://github.com/orgs/community/discussions/31570-->
+>
+$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$
 
   -  De proyecto: está conectado a un proyecto específico alojado en GitHub (una biblioteca de JavaScript o una colección de recetas. 
   -  De usuario: se debe crear un repositorio propiedad de una cuenta personal y los archivos fuente del site de un proyecto se almacenan en el mismo repositorio. 
