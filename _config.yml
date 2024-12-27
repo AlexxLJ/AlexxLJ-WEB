@@ -1,3 +1,14 @@
-theme: minima
-author: Alexx LJ
-description: My first web
+title: "My first porfolio" 
+description: "A space where I showcase my featured projects."
+theme: "minima"
+
+author: "Alexx LJ"
+email: laoshilex@outlook.com
+
+navbar:
+  - name: "Proyectos"
+    link: "/"
+  - name: "Blog"
+    link: "/blog"
+  - name: "Sobre mí"
+    link: "/about"
