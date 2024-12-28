@@ -6,14 +6,23 @@ title: Welcome to my blog / ¿Interactive Portfolio Website?
 
 Welcome! Here are some of my featured projects. Each one has its own story and is designed with a lot of passion and dedication. 🚀
 
----| [001](https://sun0225sun.github.io/Awesome-Love-Code/Web/001) | ![Imagen 001](https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/001.jpg) |
+<table align="center"> //Ajuste tamaño autom 
+    <!-- 第一行 
+    <tr>
+    Aqui EMPIEZA para añadir fotos y enlaces: <td valign="top">
+        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/001">
+            <p align="center">001</p>
+            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/001.jpg"/>
+        </a>
+    </td> Y Aquí ACABA, MÁX 4 columnas para que se vea bn.
+    </tr> CERRAMOS la fila.-->
 
 ## 🛠️ My future projects
 
-### Proyect 1: **¿Robot?**              |          ### Proyect 2: **¿App?**  
-- **Tecnology**: Arduino, C++           |          - **Tecnology**: Python, Flask 
-- **Description**:                      |          - **Description**: 
-- 🌐 [Visitar Proyecto](https://)       |          - 🐙 [Ver en GitHub](https://) 
+### Proyect 1: **¿Robot?**             
+- **Tecnology**: Arduino, C++          
+- **Description**:                    
+- 🌐 [Visitar Proyecto](https://)      
 
 ---
 
