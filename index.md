@@ -6,7 +6,7 @@ title: Welcome to my blog / ¿Interactive Portfolio Website?
 
 Welcome! Here are some of my featured projects. Each one has its own story and is designed with a lot of passion and dedication. 🚀
 
-<table align="center"> //Ajuste tamaño autom 
+<table align="center"> <!--comment: Ajuste tamaño autom%-->
     <!-- 第一行 
     <tr>
     Aqui EMPIEZA para añadir fotos y enlaces: <td valign="top">
