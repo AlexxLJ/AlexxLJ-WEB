@@ -1,43 +1,43 @@
 ---
-title: Welcome to my blog / Porfolio
+title: Welcome to my blog / ¿Interactive Portfolio Website?
 ---
 
 # 🌟 Mi Portafolio de Proyectos
 
-¡Bienvenido! Aquí presento algunos de mis proyectos destacados. Cada uno tiene su propia historia y está diseñado con pasión y dedicación. 🚀
+Welcome! Here are some of my featured projects. Each one has its own story and is designed with a lot of passion and dedication. 🚀
 
 ---
 
-## 🛠️ Proyectos Destacados
+## 🛠️ My future projects
 
-### Proyecto 1: **Gestor de Tareas**
-- **Tecnologías**: React, Node.js, MongoDB  
-- **Descripción**: Una aplicación intuitiva para organizar tareas diarias y mejorar la productividad.  
-- 🌐 [Visitar Proyecto](https://tusitio.com/proyecto1)
-
----
-
-### Proyecto 2: **Generador de Markdown**
-- **Tecnologías**: Python, Flask  
-- **Descripción**: Herramienta interactiva para convertir texto enriquecido en Markdown.  
-- 🐙 [Ver en GitHub](https://github.com/tuusuario/proyecto2)
+### Proyect 1: **¿Robot?**
+- **Tecnology**: Arduino, C++
+- **Description**: 
+- 🌐 [Visitar Proyecto](https://)
 
 ---
 
-### Proyecto 3: **Juego Retro**
-- **Tecnologías**: Unity, C#  
-- **Descripción**: Arcade clásico inspirado en los años 80 con música original y niveles generados proceduralmente.  
-- 🎮 [Probar el juego](https://tusitio.com/proyecto3)
+### Proyect 2: **¿App?**
+- **Tecnology**: Python, Flask 
+- **Description**: 
+- 🐙 [Ver en GitHub](https://)
 
 ---
 
-## 👨‍💻 Sobre Mí
+### Proyect 3: **¿2D Retro Game?**
+- **Tecnology**: Unity, C#  
+- **Description**: 
+- 🎮 [Probar el juego](https://)
 
-Soy un desarrollador apasionado por la tecnología y el diseño. Siempre busco aprender y colaborar en proyectos interesantes.
+---
 
-- ✉️ **Contacto**: [miemail@ejemplo.com](mailto:miemail@ejemplo.com)
-- 💼 **LinkedIn**: [Mi Perfil](https://linkedin.com/in/tuusuario)
-- 🐙 **GitHub**: [Mi Repositorio](https://github.com/tuusuario)
+## 👨‍💻 ABOUT ME
+
+I am a developer passionate about technology and design. I'm always looking to learn and collaborate on interesting projects.
+
+<!--- ✉️ **Contacto**: [miemail@ejemplo.com](mailto:miemail@ejemplo.com)-->
+- 💼 **LinkedIn**: "Soon"<!---[Mi Perfil](https://linkedin.com/in/tuusuario)-->
+- 🐙 **GitHub**: [Mi Repositorio](https://github.com/AlexxLJ)
 
 ---
 
