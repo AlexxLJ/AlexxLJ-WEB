@@ -14,6 +14,7 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
         </a>
     </td>
     </tr>
+</table>
 
 # 🌟 Mi FUTURO Portfolio de Proyectos
 
