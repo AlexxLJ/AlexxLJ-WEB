@@ -10,7 +10,7 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
     <td valign="top">
         <a target="_blank" href="https://alexxlj.github.io/2025new_year/">
             <p align="center">Happy New Year 2025 (0 - 0:33) </p>
-            <img src="https://github.com/AlexxLJ/2025new_year/blob/main/%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E9%87%8C.jpg"/>
+            <img src="https://alexxlj.github.io/2025new_year/祝大家新的一年里.jpg"/>
         </a>
     </td>
 
