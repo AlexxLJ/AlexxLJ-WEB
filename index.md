@@ -13,6 +13,7 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
             <img src="https://github.com/AlexxLJ/2025new_year/blob/main/%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E9%87%8C.jpg"/>
         </a>
     </td>
+        <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/vbs/004.gif"/>
     </tr>
 </table>
 
