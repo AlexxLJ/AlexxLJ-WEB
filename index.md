@@ -11,9 +11,9 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
      第一行 
     <tr>
     Aqui EMPIEZA para añadir fotos y enlaces: <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/001">
+        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/001">https://github.com/AlexxLJ/2025new_year
             <p align="center">001</p>
-            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/001.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/001.jpg"/>https://github.com/AlexxLJ/2025new_year/blob/main/%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E9%87%8C.jpg
         </a>
     </td> Y Aquí ACABA, MÁX 4 columnas para que se vea bn.
     </tr> CERRAMOS la fila.-->
