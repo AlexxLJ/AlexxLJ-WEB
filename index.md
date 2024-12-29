@@ -8,15 +8,15 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
 
 
 <table align="center"> 
-    <!-- 第一行 -->
+    <!-- 第一行 -->[comment]: Ajuste tamaño autom
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://alexxlj.github.io/2025new_year/">
+        <a target="_blank" href="https://alexxlj.github.io/2025new_year/"> [comment]: enlace
             <p align="center">001</p>
-            <img src="https://github.com/AlexxLJ/2025new_year/blob/main/%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E9%87%8C.jpg"/>
+            <img src="https://github.com/AlexxLJ/2025new_year/blob/main/%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E9%87%8C.jpg"/> [comment]: foto
         </a>
-    </td> 
-    </tr> 
+    </td> [comment]: Y Aquí ACABA, MÁX 4 columnas para que se vea bn.
+    </tr> [comment]: CERRAMOS la fila.
 
 ## 🛠️ My future projects
 
