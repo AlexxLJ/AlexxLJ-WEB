@@ -6,7 +6,7 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
 
 <table align="center">
     <!-- 第一行 -->
-    <tr>
+    <!-- <tr> -->
     <td valign="top">
         <a target="_blank" href="https://alexxlj.github.io/2025new_year/">
             <p align="center">Happy New Year 2025 (0 - 0:33) </p>
@@ -14,7 +14,7 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
         </a>
     </td>
 
-    </tr>
+    <!-- </tr> -->
 </table>
 
 # 🌟 Mi FUTURO Portfolio de Proyectos
