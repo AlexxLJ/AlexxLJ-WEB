@@ -8,7 +8,7 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
 
 
 <table align="center"> 
-    <!--- 第一行 -->
+    <!-- 第一行 -->
     <tr>
     <td valign="top">
         <a target="_blank" href="https://alexxlj.github.io/2025new_year/"> 
@@ -16,6 +16,7 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
             <img src="https://github.com/AlexxLJ/2025new_year/blob/main/%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E9%87%8C.jpg"/> 
         </a>
     </td> 
+        
     </tr> 
 
 ## 🛠️ My future projects
