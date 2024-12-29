@@ -1,4 +1,4 @@
->NOTE <!--comment: https://github.com/orgs/community/discussions/31570-->
+>NOTE <!--comment varias lineas: https://github.com/orgs/community/discussions/31570-->
 >
 $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$
 
