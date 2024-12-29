@@ -1,8 +1,6 @@
----
-title: Welcome to my blog / ¿Interactive Portfolio Website?
----
 
-# 🌟 Mi FUTURO Portfolio de Proyectos
+Welcome to my blog / ¿Interactive Portfolio Website?
+---
 
 Welcome! Here are some of my featured projects. Each one has its own story and is designed with a lot of passion and dedication. 🚀
 
@@ -11,12 +9,14 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
     <tr>
     <td valign="top">
         <a target="_blank" href="https://alexxlj.github.io/2025new_year/">
-            <p align="center">001</p>
+            <p align="center">Happy New Year 2025 (0 - 0:33) </p>
             <img src="https://github.com/AlexxLJ/2025new_year/blob/main/%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E9%87%8C.jpg"/>
         </a>
     </td>
-
     </tr>
+
+# 🌟 Mi FUTURO Portfolio de Proyectos
+
 
 ## 🛠️ My future projects
 
