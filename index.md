@@ -17,7 +17,7 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
         <tr> 
     <td valign="top">
         <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/031">
-            <p align="center">Happy New Year 2025 (0 - 0:33) </p>
+            <p align="center">Bumping heart from 表白代码收藏馆-Awesome-Love-Code </p>
             <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/031.png"/>
         </a>
     </td>
