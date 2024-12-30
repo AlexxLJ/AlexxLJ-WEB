@@ -6,16 +6,24 @@ Welcome! Here are some of my featured projects. Each one has its own story and i
 
 <table align="center">
     <!-- 第一行 -->
-    <!-- <tr> -->
+    <tr> 
     <td valign="top">
         <a target="_blank" href="https://alexxlj.github.io/2025new_year/">
             <p align="center">Happy New Year 2025 (0 - 0:33) </p>
             <img src="https://alexxlj.github.io/2025new_year/祝大家新的一年里.jpg"/>
         </a>
     </td>
-
-    <!-- </tr> -->
-</table>
+    </tr> 
+        <tr> 
+    <td valign="top">
+        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/031">
+            <p align="center">Happy New Year 2025 (0 - 0:33) </p>
+            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/031.png"/>
+        </a>
+    </td>
+    </tr> 
+ </table>
+ 
 
 # 🌟 Mi FUTURO Portfolio de Proyectos
 
