@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog / ¿Interactive Portfolio Website?
+title: My first Interactive Portfolio Website
 ---
 
 # 🌟 Mi FUTURO Portfolio de Proyectos
